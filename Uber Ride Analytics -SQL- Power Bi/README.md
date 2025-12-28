@@ -96,4 +96,8 @@ The Power BI `.pbix` file is available in the `/PowerBI` folder.
 ## 📬 Connect
 If you found this project insightful or would like to collaborate, feel free to connect with me on LinkedIn.
 
+---
 
+## **Author**
+**Sai Deepik Devarasetti**  
+Data Analyst
